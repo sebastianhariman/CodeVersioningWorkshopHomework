@@ -1,7 +1,9 @@
+====== Branch ======
 git branch
 git branch [nama branch]
 # membuat branch baru
 
+====== Checkout ======
 git checkout
 git checkout [nama branch]
 # berganti branch

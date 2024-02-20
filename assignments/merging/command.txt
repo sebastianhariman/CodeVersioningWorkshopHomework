@@ -1,3 +1,4 @@
+====== Merge ======
 git merge
 git merge [nama branch]
 # menggabungkan branch tersebut ke branch sekarang
