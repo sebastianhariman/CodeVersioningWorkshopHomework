@@ -1,2 +1,7 @@
 git branch
+git branch [nama branch]
+# membuat branch baru
+
 git checkout
+git checkout [nama branch]
+# berganti branch
