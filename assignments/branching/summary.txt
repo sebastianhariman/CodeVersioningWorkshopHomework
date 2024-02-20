@@ -1,0 +1,5 @@
+Branching pada Git adalah cara untuk melakukan duplicate kode dari kode utama.
+Setiap branch dari kode utama berdiri secara independen sehingga kita bisa merubahnya tanpa mempengaruhi kode utama.
+Kita dapat menggunakan command ‘git branch’ untuk membuat melihat branch yang ada.
+‘git branch [nama branch]’ untuk membuat branch baru.
+‘git checkout [nama branch]’ untuk berpindah ke branch tersebut.
