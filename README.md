@@ -1,7 +1,7 @@
 # CodeVersioningWorkshopHomework
 
 ## Summary
-====== Branching ======
+Branching:
 Branching pada Git adalah cara untuk melakukan duplicate kode dari kode utama.
 Setiap branch dari kode utama berdiri secara independen sehingga kita bisa merubahnya tanpa mempengaruhi kode utama.
 Kita dapat menggunakan command ‘git branch’ untuk membuat melihat branch yang ada.
@@ -15,7 +15,7 @@ git branch [nama branch]
 git checkout
 git checkout [nama branch]
 
-====== Merge ======
+Merging:
 Merging adalah proses yang dilakukan untuk menggabungkan perubahan dari satu cabang ke cabang lainnya dalam Git.
 Merging memungkinkan beberapa orang untuk menggabungkan kode dari beberapa cabang dan mengintegrasikan fitur ke dalam proyek.
 'git merge [nama branch] digunakan untuk menggabungkan perubahan dari cabang tersebut ke cabang saat ini.
