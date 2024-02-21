@@ -1,3 +1,5 @@
+Merging
+
 Merging adalah proses yang dilakukan untuk menggabungkan perubahan dari satu cabang ke cabang lainnya dalam Git.
 Merging memungkinkan beberapa orang untuk menggabungkan kode dari beberapa cabang dan mengintegrasikan fitur ke dalam proyek.
 'git merge [nama branch] digunakan untuk menggabungkan perubahan dari cabang tersebut ke cabang saat ini.
